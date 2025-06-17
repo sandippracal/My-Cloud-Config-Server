@@ -2,4 +2,4 @@ spring:
   security:
     user:
       name: upadmin
-      password: upadmin
+      password: upadmin123
